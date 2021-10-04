@@ -1,0 +1,10 @@
+DTO- Data transfer object
+
+
+It has 5 rules
+
+> Class should be "public class".
+> it should have one default constructor.
+> it must contain private data members.
+> for private data we need to create public getter and setter.
+> ..........
